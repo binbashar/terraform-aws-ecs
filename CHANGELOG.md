@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [7.6.0](https://github.com/terraform-aws-modules/terraform-aws-ecs/compare/v7.5.1...v7.6.0) (2026-08-09)
+
+### Features
+
+* Add support for s3files volume type ([#407](https://github.com/terraform-aws-modules/terraform-aws-ecs/issues/407)) ([8035943](https://github.com/terraform-aws-modules/terraform-aws-ecs/commit/8035943edf581731dd3274703983a7d5b4d4445b)), closes [#1](https://github.com/terraform-aws-modules/terraform-aws-ecs/issues/1)
+
 ## [7.5.1](https://github.com/terraform-aws-modules/terraform-aws-ecs/compare/v7.5.0...v7.5.1) (2026-08-08)
 
 ### Bug Fixes
